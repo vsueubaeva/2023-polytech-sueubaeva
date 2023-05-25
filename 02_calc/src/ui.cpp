@@ -1,7 +1,14 @@
 #include "ui.h"
+#include <cmath>
+#include <ftxui/dom/elements.hpp>
+#include <ftxui/screen/screen.hpp>
+#include <ftxui/screen/string.hpp>
+#include <ftxui/component/component.hpp>
+#include <ftxui/component/screen_interactive.hpp>
   
 namespace calc
 {
+    using namespace ftxui;
     struct Operation {
         std::string expr;
         std::string result;
@@ -25,13 +32,20 @@ namespace calc
     std::vector<int> demo_triangle(int width, int height)
     {
         std::vector<int> output(width);
-        for (int i = 0; i < width; ++i)
-        {
-            output[i] = i % (height - 4) + 2;
+        for (int x = 0; x < width; ++x) {
+            float y = 0;
+            y += 0.3f * sin(x * 0.1f);        // NOLINT
+            y *= height;                                // NOLINT
+            // y += 0.5f * height;                         // NOLINT
+            output[x] = static_cast<int>(y);
         }
-        return output;
-    }
+    return output;
+    
+  }
 
+    double Function(double x) {
+        return sin(x);
+    }
 
     Element UI::render_input()
     {
@@ -45,7 +59,23 @@ namespace calc
         
         std::string result2 = "Result: ";
         if (logic_ref.expression == "plot")
-        {
+        {   
+        //     int graph_width = 50;
+        //     int graph_height = 20;
+
+        // // Минимальное и максимальное значение x.
+        //     double x_min = -5.0;
+        //     double x_max = 5.0;
+
+        // // Минимальное и максимальное значение y.
+        //     double y_min = -1.0;
+        //     double y_max = 1.0;
+        //     for (int i = 0; i < graph_width; ++i) {
+        //         double x = x_min + (x_max - x_min) * i / graph_width;
+        //         double y = Function(x);
+        //         graph.plot(x, y);
+        //     }
+        //     return hbox(text(L"Graph:"), graph.Render());
             return graph(std::ref(demo_triangle)) | color(Color::Khaki3);
         } else if (logic_ref.expression == "history"){
             std::vector<Operation> history = component.GetHistory();
