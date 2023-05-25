@@ -22,40 +22,40 @@
 ```
 Проверка простейших базовых арифметических операций
 ```
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/1.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/2.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/3.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/4.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/5.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/6.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/15.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/1.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/2.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/3.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/4.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/5.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/6.png)
+![Screenshot](https://github.com/vsueubaeva/2023-polytech-sueubaeva/blob/master/02_calc/tests/15.png)
 
 
 ```
 Проверка математических и физических констант
 
 ```
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/7.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/8.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/9.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/16.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/17.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/7.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/8.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/9.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/16.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/17.png)
 
 
 ```
 Проверка тригонометрических операций 
 ```
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/10.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/11.png)
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/14.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/10.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/11.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/14.png)
 
 ```
 Проверка функции факториала 
 ```
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/13.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/13.png)
 
 
 ```
 Проверка истории операций
 ```
-![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/02_calc/tests/12.png)
+![Screenshot](https://github.com/vsueubaeva//2023-polytech-sueubaeva/blob/master/02_calc/tests/12.png)
